@@ -1,4 +1,3 @@
-
 {% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
@@ -13,10 +12,10 @@
         {% else %}
           "{{ s.image | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        alt="{% if s.image_alt %}{{ s.image_alt | downcase}}{% endif %}">
       {% endif %}
       {% if s.title %}<h3>{{ s.title | downcase }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify | downcase }}{% endif %}
+      {% if s.text %}{{ s.text | markdownify | downcase}}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
