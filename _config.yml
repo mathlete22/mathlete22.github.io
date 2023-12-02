@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "aniket"
+  name             : "aniket saha"
   avatar           : "profile.png"
   bio              : "a student, interested in deep learning, computer vision, natural language processing. i also play football, chess regularly."
   location         : "chennai, india"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : &scholar"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mathlete22"
+  github           : &github"mathlete22"
   google_plus      :
   keybase          :
   instagram        :
