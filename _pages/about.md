@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/mathlete22?style=social)](https://github.com/mathlete22)
-
+## sample, work on progress (3/12/2023)
 ## 🙏 nomoshkar (pronounced naw-mo-shkar in bangla, used to greet people)
 
-hi, i'm aniket (but why are you at this barren place?) and i'm a graduate student at chennai mathematical institute. recently i've been quite fond of writing everything in lowercase (maybe doing too much nlp preprocessing!). i hope i'm not offending anyone, if i am, well, be offended.
+hi, i'm aniket and i'm a graduate student at chennai mathematical institute. recently i've been quite fond of writing everything in lowercase (maybe doing too much nlp preprocessing!). i hope i'm not offending anyone, if i am, well, be offended.
 
 some topics i'm currently interested in are: 
 1. **theoretical machine learning & deep learning**
@@ -20,6 +20,8 @@ some topics i'm currently interested in are:
 3. **natural language processing**
 
 in between occasional study sessions, i can be found at the football ground or on lichess or roaming around on my bicycle.
+
+and other than these, i love to read and share my knowledge with others (secretly i want to be a teacher).
 
 ### 🔧 some stuff that i know a bit...
 
