@@ -18,7 +18,6 @@ work experience
 ======
 * summer 2023: data science intern, synergy maritime
   * main project: document classification & information extraction
-  * details: 
   * skills required: python, google colab, computer vision, nlp
   * packages & tools used: pytorch, opencv, nltk, pillow, regex, openpyxl, openai, google cloud vision
   * supervisor: rohan sharma 
@@ -39,17 +38,3 @@ work experience
   * skills required: computer architecture, boolean algebra, logic circuits
   * tools used: logisim
   * course instructor: ashok chandrasekharan
-  
-skills
-======
-* manipulation
-* lying
-  * storytelling
-  * making excuses
-* procrastinating
-
-
-service and leadership
-======
-* got senseless after donating blood, 2022
-* captained my team in roadside football, 2017
