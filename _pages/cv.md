@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+## sample, work on progress (3/12/2023)
 
 education
 ======
