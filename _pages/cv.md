@@ -21,7 +21,13 @@ work experience
   * main project: document classification & information extraction
   * skills required: python, google colab, computer vision, nlp
   * packages & tools used: pytorch, opencv, nltk, pillow, regex, openpyxl, openai, google cloud vision
-  * supervisor: rohan sharma 
+  * supervisor: rohan sharma, rohan panikar
+
+* fall 2023: data science intern, synergy maritime
+  * main project: building searchable graph database; data analysis & testing validation and consistency of data
+  * skills required: python, google colab, graph networks and algorithms, graph representation learning, statistics, testing of hypothesis
+  * packages & tools used: sklearn, pytorch, networkx, neo4j, numpy, pandas, matplotlib, seaborn
+  * supervisor: rohan sharma, rohan panikar
 
 * fall 2023: teaching assistant, data visualization, chennai mathematical institute
   * duties: taking classes, checking assignments
@@ -39,3 +45,8 @@ work experience
   * skills required: computer architecture, boolean algebra, logic circuits
   * tools used: logisim
   * course instructor: ashok chandrasekharan
+ 
+* fall 2023: research intern, tensorgrad
+  * project topic: geometry processing & mesh surface reconstruction
+  * skills required: geometry processing, linear algebra, higher dimension calculus, python, google colab, computer vision
+  * supervisor: vijai kumar suriyababu
