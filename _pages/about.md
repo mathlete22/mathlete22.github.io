@@ -45,8 +45,8 @@ and other than these, i love to read and share my knowledge with others (secretl
 [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-03C75A?style=flat-square&logo=computer-vision&logoColor=white)](https://github.com/topics/computer-vision)
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![KNIME](https://img.shields.io/badge/KNIME-E76D83?style=flat-square&logo=knime&logoColor=white)](https://www.knime.com/)
 [![Azure Machine Learning](https://img.shields.io/badge/Azure%20ML-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/machine-learning/)
@@ -64,8 +64,8 @@ and other than these, i love to read and share my knowledge with others (secretl
 
 ### 🌱 i'm currently learning/reading about:
 
-- computer vision
 - theoretical ml & dl
+- computer vision
 
 
 ### 📈 noob github stats
